@@ -4,9 +4,9 @@
 
 Di modul ini, kita akan belajar cara membuat dan menjalankan program Ruby sederhana. Kita juga akan melihat bagaimana Ruby menjalankan kode dari atas ke bawah. Di Ruby, ada 3 cara untuk mencetak nilai. Bisa `puts`, `print` atau `p`. Terus apa bedanya? nanti kita bahas cuyy.
 
-`puts` ini mencetak nilai, tapi outputnya langsung pindah baris. Kaya pake \n 
-`print` ini mirip `puts`, tapi outputnya di baris yang sama
-`p` nah kalo yang ini biasanya buat debugging
+- `puts` ini mencetak nilai, tapi outputnya langsung pindah baris. Kaya pake \n 
+- `print` ini mirip `puts`, tapi outputnya di baris yang sama
+- `p` nah kalo yang ini biasanya buat debugging
 
 ## Kenapa perlu dipelajari?
 
